@@ -1,0 +1,26 @@
+[
+  {
+        "ME_ID": "65430",
+        "EREIGNISID": 3429047,
+        "COIL_ID": "410A005",
+        "SECUENCE": "005",
+        "WEIGHT": 24211,
+        "THICKNESS": 12.7,
+        "WIDTH": 1840.8,
+        "LENGTH": 138242,
+        "OUTERDIAMETER": 1678.104,
+        "INNERDIAMETER": 610,
+        "GRADE": "412E02",
+        "CUSTOMER_STEELGRADE": "CONV. A572G50 T1/ ASTM A1018",
+        "CUSTOMER": "PLESA ANAHUAC Y CIAS/MEX/5494",
+        "FA_NR": "010008224010",
+        "SLABID": "2431399204",
+        "PG_ID": "0000019141",
+        "CAMPAIGN": "Camp 756 Skin Pass 26-Abr",
+        "COILERNO": 1,
+        "LOCATION": "CAR 1",
+        "WEIGHING_STATUS": "null",
+        "WHEIGH_DATE": "2024-03-04T23:12:14",
+        "PRODUCTION_DATE": "2024-03-04T23:00:31"
+    }
+]
