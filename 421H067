@@ -1,0 +1,26 @@
+[
+    {
+        "ME_ID": "293993",
+        "EREIGNISID": 21976392,
+        "COIL_ID": "421H067",
+        "SECUENCE": "067",
+        "WEIGHT": 20564.15,
+        "THICKNESS": 6.725274,
+        "WIDTH": 1602.6659,
+        "LENGTH": 250797.88,
+        "OUTERDIAMETER": 1605.592,
+        "INNERDIAMETER": 753.573,
+        "GRADE": "320C01",
+        "CUSTOMER_STEELGRADE": " CONV. A36/ ASTM A1018",
+        "CUSTOMER": " REGIOMONTANA DE PERFILES Y TUB ",
+        "FA_NR": "000316462040",
+        "SLABID": "2420969104",
+        "PG_ID": "0000019072",
+        "CAMPAIGN": "Camp 1528 Intermedia arranque",
+        "COILERNO": "2",
+        "LOCATION": "CAR 2",
+        "WEIGHING_STATUS": "BookWeight",
+        "WHEIGH_DATE": "2024-05-23T23:04:46",
+        "PRODUCTION_DATE": "2024-05-23T22:59:18"
+    }
+]
